@@ -1,9 +1,15 @@
+
+" Poolside Theme: {{{
+"
+" https://github.com/nsgrantham/poolside-vim
+"
 " Vim Colors File
 " Maintained: https://github.com/nsgrantham/poolside-vim/blob/main/colors/poolside.vim
 " Based On:   https://github.com/dracula/vim/blob/master/colors/dracula.vim
 " License:    MIT License
-
+" @author Neal Grantham
 scriptencoding utf8
+" }}}
 
 " Configuration: {{{
 
