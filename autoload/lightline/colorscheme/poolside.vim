@@ -1,7 +1,4 @@
 " Vim Lightline File
-" Maintained: https://github.com/nsgrantham/poolside-vim/blob/main/autoload/lightline/colorscheme/poolside.vim
-" Based On:   https://github.com/dracula/vim/blob/master/autoload/lightline/colorscheme/dracula.vim
-" License:    MIT License
 
 let s:black    = g:poolside#palette.bg
 let s:gray     = g:poolside#palette.selection

@@ -1,7 +1,4 @@
 " Vim Autoload File
-" Maintained: https://github.com/nsgrantham/poolside-vim/blob/main/autoload/poolside.vim
-" Based On:   https://github.com/dracula/vim/blob/master/autoload/dracula.vim
-" License:    MIT License
 
 " Palette: {{{
 

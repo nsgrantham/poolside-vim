@@ -1,7 +1,4 @@
 " Vim Airline File
-" Maintained: https://github.com/nsgrantham/poolside-vim/blob/main/autoload/airline/themes/poolside.vim
-" Based On:   https://github.com/dracula/vim/blob/master/autoload/airline/themes/dracula.vim
-" License:    MIT License
 
 " Takes a foreground color name, background color name, and optionally one or
 " more attr-list items as input, transforms it to the format accepted by
